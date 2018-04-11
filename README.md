@@ -1,6 +1,6 @@
 # Stay Fresh
 
-<img src="https://s3.amazonaws.com/after-school-assets/strings.jpg" align="right" width="200" hspace="10>
+<img src="https://s3.amazonaws.com/after-school-assets/strings.jpg" align="right" width="200" hspace="10">
 
 Remember all that great stuff that we've learned about Ruby strings and numbers? Test your knowledge with this [CodeQuiz on Ruby variables, strings and numbers](http://www.codequizzes.com/ruby/beginner/variables-strings-numbers). Try typing out your answers first in your editor or irb before clicking to see the solution.
 
